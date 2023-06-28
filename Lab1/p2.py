@@ -13,6 +13,3 @@ if __name__ == "__main__":
         else:
             xbar = ( xbar * ( input_time - 1 ) + newx ) / input_time
         print("mean={:.4f}".format(xbar))
-
-        # Write your code here!
-# end while
