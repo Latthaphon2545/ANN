@@ -21,5 +21,7 @@ if __name__ == "__main__":
     else:
         direction = "W"
     longitude = abs( (mins - GMTnoon) / 4 )
+    if longitude == 0:
+        direction = ""
     print("longitude= {:.2f} {}".format(longitude, direction))
 # end __main__
