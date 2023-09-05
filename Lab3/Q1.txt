@@ -1,0 +1,12 @@
+Q1.1. v = 0.5 and g(v) = -21
+Q1.2. v = -2 and g(v) = 0
+Q1.3. v = -4.5 and g(v) = 14
+Q1.4. v = 4.5 and g(v) = 14
+Q1.5. v = 0.5 and g(v) = 21
+Q1.6. v = 0.5 and g(v) = 26
+Q1.7. v = -3.5 and g(v) = 14
+Q1.8. v = 5 and g(v) = 14
+Q1.9. v = 0 and g(v) = 21
+Q1.10. v = 2 and g(v) = 0
+Q1.11. v = -2.5 and g(v) = -4
+Q1.12. v = -2 and g(v) = 0

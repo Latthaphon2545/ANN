@@ -1,0 +1,4 @@
+Q3.1. v = 3.2 volt and P(v) = 10.468 watt
+Q3.2. Yes. We need 1 panel(s).
+Q3.3. No. We need 2 panel(s).
+Q3.4. No. We need 3 panel(s).
