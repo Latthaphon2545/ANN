@@ -4,11 +4,10 @@ def objective(v):
     return 5 * v - 3 * (1 - np.log(3.8 - v)) - 1
 
 def dPv(v):
-    return 5 - (15 / (19 - 5*v))
+    return 5 - 3/(3.8 - v)
 
 def maximizer(initial_v, step_size, num_steps):
     v = initial_v
-    
     for _ in range(num_steps):
         gradient = dPv(v)
         v += step_size * gradient

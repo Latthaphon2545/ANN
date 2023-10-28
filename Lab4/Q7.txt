@@ -1,0 +1,4 @@
+Q7.1. Answer = Degree 9
+Q7.2. Answer = Degree 5
+Q7.3. Answer = Degrees 6, 7, 8, 9
+Q7.4. Answer = Degree 5
